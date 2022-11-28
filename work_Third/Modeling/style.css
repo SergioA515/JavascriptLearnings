@@ -1,0 +1,15 @@
+header.upperHead{
+}
+nav.navBar{
+    background-color: #7224efb0;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+ul.link{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 50%;
+    width: 500px;
+    position: relative;
+}

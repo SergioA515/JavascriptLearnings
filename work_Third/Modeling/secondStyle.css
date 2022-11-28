@@ -1,0 +1,37 @@
+body.imgContain{
+    background-image: url("images/Escenario 1.jpg");
+    background-repeat:no-repeat;
+    background-size: 100%;
+    opacity: 0.9;
+}
+nav.navBar{
+    border-radius: 10px;
+    background-color: #82c7e0ce;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+ul.link{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 50%;
+    width: 500px;
+    position: relative;
+}
+div.containerPosts{
+    background-color: #fff;
+    width: 100%;
+    height: auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+
+}
+article.sideA{
+    background-color: black;
+    width: 100px;
+    justify-content: space-between;
+}
+article.sideB{
+    background-color: black;
+    justify-content: space-between;
+}

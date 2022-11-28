@@ -1,0 +1,9 @@
+div.headerBox{
+    display: flex;
+    justify-content: center;
+}
+div.Background{
+    width: 100px;
+    height: auto;
+    background-color: aqua;
+}

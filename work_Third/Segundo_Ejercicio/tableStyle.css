@@ -1,0 +1,36 @@
+div.containT #tablaMia{
+    margin: 10px;
+    padding: 10px;
+    /* width: auto; height: auto; */
+    border: solid 1px;
+    border-color: blue;
+    background-color: aquamarine;
+}
+th.init{
+    background-color: aqua;
+    text-align: center;
+}
+div.textoTitulo{
+    margin: 0px auto;
+}
+table.tabla1{
+    width: auto; height: auto;
+    border-spacing: 10px;
+    padding: 3px;
+    border: solid 2px;
+
+}
+
+tr.firstR{
+    background-color: rgb(242, 0, 0);
+    
+}
+tr.secondR{
+    background-color: blueviolet;
+}
+tr.thirdR{
+    background-color:chartreuse;
+}
+td.cellF_1{
+    
+}
